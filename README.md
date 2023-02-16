@@ -5,7 +5,6 @@ A Full Stack Web Developer with experience in both web development areas from fr
 #
 
 ### My Digital Footprints 🌱
-[Check my portfolio]()
 
 <br>
 
@@ -14,4 +13,4 @@ A Full Stack Web Developer with experience in both web development areas from fr
 
 #
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Kumara2mahe.visitor-badge&left_color=blue&right_color=maroon)
+![Views Counter](https://views-counter.vercel.app/badge?pageId=Kumara2mahe%2FKumara2mahe&leftColor=c0c0c0&rightColor=0080ff&type=total&label=Visitors&style=upper)
