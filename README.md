@@ -1,6 +1,6 @@
 ### Hi I'm *Kumara* 👋
 
-A Full Stack Web Developer with experience in both web development areas from front-end engineering (HTML, CSS, and Javascript) to back-end programming (Django/Python). I'm extremely passionate in learning new things, concepts and techniques... If you found value in something I have created, please feel free to give some ♥ on [mail](mailto:mahendrakumara268@gmail.com).
+A Full Stack Web Developer with experience in both web development areas from front-end engineering [HTML, CSS, and Javascript (React)] to back-end programming [Python (Django), Node.js (Express)]. I'm extremely passionate in learning new things, concepts and techniques... If you found value in something I have created, please feel free to give some ♥ on [mail](mailto:mahendrakumara268@gmail.com).
 
 #
 
