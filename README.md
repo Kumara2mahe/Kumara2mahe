@@ -1,4 +1,4 @@
-### Hi I'm *Kumara* 👋
+### Hi I'm *Mahendra Kumara* 👋
 
 A Full Stack Web Developer with experience in both web development areas from front-end [HTML, CSS, and Javascript (React, Nextjs)] to back-end [Python (Django), Node.js (Express)] technologies. I'm extremely passionate in learning new things, concepts and techniques... If you’ve found value in my creations, please feel free to share your thoughts ♥.
 
