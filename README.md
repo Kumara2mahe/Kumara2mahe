@@ -1,11 +1,11 @@
 ### Hi I'm *Kumara* 👋
 
-A Full Stack Web Developer with experience in both web development areas from front-end engineering [HTML, CSS, and Javascript (React, Nextjs)] to back-end programming [Python (Django), Node.js (Express)]. I'm extremely passionate in learning new things, concepts and techniques... If you found value in something I have created, please feel free to give some ♥ on [mail](mailto:mahendrakumara268@gmail.com).
+A Full Stack Web Developer with experience in both web development areas from front-end [HTML, CSS, and Javascript (React, Nextjs)] to back-end [Python (Django), Node.js (Express)] technologies. I'm extremely passionate in learning new things, concepts and techniques... If you’ve found value in my creations, please feel free to share your thoughts ♥.
 
 #
 
 ### My Digital Footprints 🌱
-- [Portfolio](https://kumara-folio.vercel.app)
+- [Portfolio](https://kumara2mahe.vercel.app)
 - #### Projects
   - [e-Fill](https://e-fill-by-kumara.web.app)&emsp;&emsp;<a href="https://github.com/Kumara2mahe/e-Fill" title="check source code">💻</a>
   - [Stack O-flow](https://stack-o-flow.vercel.app)&emsp;&emsp;<a href="https://github.com/Kumara2mahe/Stack-O-flow" title="check source code">💻</a>
