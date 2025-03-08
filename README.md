@@ -18,7 +18,7 @@ A Full Stack Web Developer with experience in both web development areas from fr
 
 <br>
 
-![Mahendra Kumara's github stats](https://github-readme-stats.vercel.app/api?username=Kumara2mahe&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000)
+![Mahendra Kumara's github stats](https://github-readme-stats.vercel.app/api?username=Kumara2mahe&hide=contribs,prs&show=prs_merged_percentage&show_icons=true&rank_icon=percentile&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kumara2mahe&hide=procfile&layout=compact&hide_border=true)
 
 #
