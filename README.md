@@ -36,8 +36,7 @@ If you find value in my work, feel free to connect or share your thoughts ♥.
 ---
 
 ### 📊 GitHub Stats
-![Mahendra Kumara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kumara2mahe&hide=contribs,prs&show=prs_merged_percentage&show_icons=true&rank_icon=percentile&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kumara2mahe&hide=procfile&layout=compact&hide_border=true)
+![Mahendra Kumara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kumara2mahe&hide=contribs,prs&show=prs_merged_percentage&show_icons=true&rank_icon=percentile&hide_border=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kumara2mahe&hide=procfile&layout=compact&hide_border=true)
 
 ---
 
