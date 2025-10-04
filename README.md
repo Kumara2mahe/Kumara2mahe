@@ -9,7 +9,7 @@ If you find value in my work, feel free to connect or share your thoughts ♥.
 ---
 
 ### 🛠 Tech Stack
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite,redux,django,nodejs,js,py,html,css,postgres,mysql,redis,supabase,firebase,mongodb,aws,azure,gcp,vercel,nginx,linux,ubuntu,redhat,windows,bash,powershell,postman,vscode,wordpress,figma,ps)
+![My Skills](https://skillicons.dev/icons?i=react,django,nextjs,tailwind,vite,redux,js,py,html,css,bootstrap,nodejs,postgres,mysql,redis,supabase,firebase,mongodb,aws,azure,gcp,vercel,nginx,linux,ubuntu,redhat,windows,bash,powershell,postman,vscode,wordpress,figma,ps)
 
 ---
 
