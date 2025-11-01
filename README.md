@@ -1,6 +1,6 @@
 ### Hi I'm *Mahendra Kumara* 👋
 
-**Full Stack Developer & Solution Architect** with 3.5+ years of experience building scalable SaaS platforms, lean MVPs, and custom dashboards for startups, agencies, and product teams.
+**Full Stack Developer & Solution Architect** with over 4 years of experience building scalable SaaS platforms, lean MVPs, and custom dashboards for startups, agencies, and product teams.
 
 I specialize in full-cycle delivery-from backend logic and responsive frontend to cloud deployment, performance optimization, and analytics integration. My builds are modular, SEO-friendly, and designed to scale.
 
